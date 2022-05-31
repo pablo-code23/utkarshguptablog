@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9b38bee.css",
+    "main.js": "/static/js/main.3a146db8.js",
+    "static/media/intro.jpg": "/static/media/intro.86313213bbf15bdc7614.jpg",
+    "static/media/image3.jpg": "/static/media/image3.b104faca329df6733bdb.jpg",
+    "static/media/image2.jpg": "/static/media/image2.e5279597eff59d261001.jpg",
+    "static/media/start2.jpg": "/static/media/start2.07e2c492131b8ed889f1.jpg",
+    "static/media/start3.jpg": "/static/media/start3.9f1b2d70b4b2308290f7.jpg",
+    "static/media/skills3.jpg": "/static/media/skills3.c40f24ae6f82685deec1.jpg",
+    "static/media/image4.jpg": "/static/media/image4.c780686794d403d1969c.jpg",
+    "static/media/image1.jpg": "/static/media/image1.dc4e5565dbeae7c94a83.jpg",
+    "static/media/skills1.jpg": "/static/media/skills1.ebb5028763ce00f3629b.jpg",
+    "static/media/sugar1.jpg": "/static/media/sugar1.b91be6b639d87323f8e5.jpg",
+    "static/media/sugar2.jpg": "/static/media/sugar2.c59d8745e3c498f099b5.jpg",
+    "static/media/skills2.jpg": "/static/media/skills2.e7449a941c1d5166ce4a.jpg",
+    "static/media/start1.jpg": "/static/media/start1.ad8b12219f94e1aac957.jpg",
+    "static/media/steel2.jpg": "/static/media/steel2.cb02750510ad1fcd9e49.jpg",
+    "static/media/steel1.jpg": "/static/media/steel1.ae4fbcef722b7c3af2af.jpg",
+    "static/media/nifty.jpg": "/static/media/nifty.5a5014206a120bf07a70.jpg",
+    "static/media/ukraine.jpg": "/static/media/ukraine.66616d5b317efe8ee97b.jpg",
+    "static/media/sip.jpg": "/static/media/sip.adb9efc1093f9ac64d79.jpg",
+    "static/media/image5.jpg": "/static/media/image5.b8955c1592f3b572a16b.jpg",
+    "index.html": "/index.html",
+    "main.f9b38bee.css.map": "/static/css/main.f9b38bee.css.map",
+    "main.3a146db8.js.map": "/static/js/main.3a146db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b38bee.css",
+    "static/js/main.3a146db8.js"
+  ]
+}
